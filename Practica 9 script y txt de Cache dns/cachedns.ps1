@@ -1,0 +1,1 @@
+ipconfig  /displaydns | Out-File -FilePath .\cachednss.txt
